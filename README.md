@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Profile Views](komarev.com)
+&nbsp;![](https://komarev.com/ghpvc/?username=isanjeevroy&color=brightgreen)
 
 
 
