@@ -1,7 +1,6 @@
-# Hey, I'm Sanjeev Kumar 👋
+<h1 align="center">🌟 Hey there! Welcome to my GitHub Page 👋</h1>
 
-I'm a developer who codes at night, debugs in dreams, and survives on caffeine ☕
-
+- 👨‍💻 This is Sanjeev — a developer who codes at night and debugs in his dreams. 😄
 - 🔭 Currently building cool stuff
 - 🌱 Always learning, always breaking things
 - 💬 Ask me anything – worst case, we'll Google together
@@ -15,8 +14,7 @@ I'm a developer who codes at night, debugs in dreams, and survives on caffeine �
 ---
 
 <p align="center">
-  <i>Turning Ideas into code since 2021 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/004b4d2b-80ab-4d35-bcbf-9f91bd32d1c0" />
-→💻</i>
+  <i>Turning Ideas into code since 2020 🧠→💻</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=isanjeevroy&color=brightgreen" alt="Profile Views"/>
 </p>
