@@ -1,16 +1,22 @@
-<h1 align="center">🚀 Hey, I'm Sanjeev!</h1>
+# Hey, I'm Sanjeev Kumar 👋
+
+I'm a developer who codes at night, debugs in dreams, and survives on caffeine ☕
+
+- 🔭 Currently building cool stuff
+- 🌱 Always learning, always breaking things
+- 💬 Ask me anything – worst case, we'll Google together
+- ⚡ Motto: *"It works on my machine"*
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isanjeevroy/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/isanjeevroy)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/isanjeevroy)
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=0000FF&center=true&vCenter=true&width=440&lines=Software+Engineer;Full+Stack+Dev;Mobile+App+Developer;Exploring+ML" />
+  <i>Turning Ideas into code since 2021 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/004b4d2b-80ab-4d35-bcbf-9f91bd32d1c0" />
+→💻</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=isanjeevroy&color=brightgreen" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <a href="https://sanjeevkumar.in/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/isanjeevroy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/isanjeevroy"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isanjeevroy&color=0000FF&style=plastic" />
-</p>
-
