@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hey there! Welcome to my GitHub Page 👋</h1>
+<h1 align="lefft">Hi there, I'm Sanjeev 👋</h1>
 
 - 👨‍💻 This is Sanjeev — a developer who codes at night and debugs in his dreams. 😄
 - 🔭 Currently building cool stuff
