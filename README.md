@@ -1,4 +1,4 @@
-<h1 align="lefft">Hi there, I'm Sanjeev 👋</h1>
+<h1 align="lefft">Hi, I'm Sanjeev 👋</h1>
 
 - 👨‍💻 A developer who codes at night and debugs in his dreams. 😄
 - 🔭 Currently building cool stuff
