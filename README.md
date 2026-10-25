@@ -1,6 +1,6 @@
 <h1 align="lefft">Hi there, I'm Sanjeev 👋</h1>
 
-- 👨‍💻 This is Sanjeev — a developer who codes at night and debugs in his dreams. 😄
+- 👨‍💻 A developer who codes at night and debugs in his dreams. 😄
 - 🔭 Currently building cool stuff
 - 🌱 Always learning, always breaking things
 - 💬 Ask me anything – worst case, we'll Google together
